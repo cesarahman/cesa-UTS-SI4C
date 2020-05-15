@@ -3,17 +3,17 @@
     {
       "merek": "mio",
       "harga": 3400000,
-      "image": "supra.png"
+      "image": "mio.png"
     },
     {
       "merek": "NMax",
       "harga": 2500000,
-      "image": "supra.png"
+      "image": "nmax.png"
     },
     {
       "merek": "Shogun",
       "harga": 3400000,
-      "image": "supra.png"
+      "image": "shogun.png"
     },
     {
       "merek": "Satria",
